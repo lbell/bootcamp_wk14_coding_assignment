@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.movie {
+  margin: 30px;
+}
+
+.review {
+  margin: 10px;
+}
+
+.review-form {
+  text-align: left;
+  margin: 10px;
+  background: rgba(128, 128, 128, 0.064);
+  padding: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
